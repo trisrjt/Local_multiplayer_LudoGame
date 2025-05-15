@@ -6,7 +6,4 @@
 <h1>About This Game</h1>
 <p>This is Responsive for Both Mobile and Laptop/Pc</p>
 
-You can play it at
-- https://offline-ludo.bgmi.fun/
 
-feel free to suggest edits
